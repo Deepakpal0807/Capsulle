@@ -1,0 +1,4 @@
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+     1644       1    1644      16052  ?         197609 22:11:27 /usr/bin/mintty
+     1645    1644    1645      19032  pty0      197609 22:11:27 /usr/bin/bash
+     1863    1645    1863      19908  pty0      197609 22:12:14 /usr/bin/PS
